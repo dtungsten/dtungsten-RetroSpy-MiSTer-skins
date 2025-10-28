@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="8BitDo M30 Contoller" author="dtungsten" type="mister;linuxjoystick">
+
+    <background name="Default" image="8BitDoM30.png" />
+
+    <button name="b0" image="circle2.png" x="737" y="323" width="100" height="100" />
+    <button name="b1" image="circle2.png" x="847" y="260" width="100" height="100" />
+	<button name="b9" image="circle2.png" x="967" y="224" width="100" height="100" />
+	
+    <button name="b3" image="circle2.png" x="712" y="210" width="70" height="70" />
+    <button name="b4" image="circle2.png" x="814" y="160" width="70" height="70" />
+    <button name="b7" image="circle2.png" x="919" y="129" width="70" height="70" />
+
+    <button name="b6" image="circle2.png" x="180" y="0" width="160" height="80" />
+	<button name="b8" image="circle2.png" x="825" y="0"  width="160" height="80" />
+   
+    <button name="b11" image="circle2.png" x="535" y="255" width="80" height="30" />
+	
+    <button name="up"    image="circle2.png" x="257" y="168" width="50" height="50" />
+    <button name="down"  image="circle2.png" x="257" y="320" width="50" height="50" />
+    <button name="left"  image="circle2.png" x="175" y="244" width="50" height="50" />
+    <button name="right" image="circle2.png" x="335" y="244" width="50" height="50" />
+
+</skin>

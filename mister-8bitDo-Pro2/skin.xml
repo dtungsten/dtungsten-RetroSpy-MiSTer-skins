@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="8BitDo Pro2 Contoller" author="dtungsten" type="mister;linuxjoystick">
+
+    <background name="Default" image="8BitDoPro2.png" />
+
+    <button name="b1" image="circle2.png" x="795" y="215" width="70" height="70" />
+    <button name="b0" image="circle2.png" x="879" y="142" width="70" height="70" />
+    <button name="b4" image="circle2.png" x="710" y="142" width="70" height="70" />
+    <button name="b3" image="circle2.png" x="795" y="70" width="70" height="70" />	
+
+    <button name="b6" image="L1.png" x="135" y="0" width="228" height="40" />
+	<button name="b7" image="R1.png" x="705" y="0"  width="228" height="40" />
+
+    <button name="b8" image="circle2.png" x="80" y="0" width="70" height="70" />
+	<button name="b9" image="circle2.png" x="920" y="0"  width="70" height="70" />
+
+    <button name="b10" image="button-start-select.png" x="445" y="156" width="80" height="30" />   
+    <button name="b11" image="button-start-select.png" x="545" y="156" width="80" height="30" />
+
+    <button name="up"    image="PadUp.png" x="220" y="100" width="37" height="36" />
+    <button name="down"  image="PadDown.png" x="220" y="220" width="37" height="36" />
+    <button name="left"  image="PadLeft.png" x="165" y="160" width="36" height="37" />
+    <button name="right" image="PadRight.png" x="275" y="160" width="36" height="37" />
+
+    <stick xname="x" yname="y" image="stick.png"
+	       x="320" y="270" width="121" height="121" xrange="50" yrange="50" yreverse="true"/>
+    <stick xname="z" yname="rx" image="stick.png"
+	       x="625" y="270" width="121" height="121" xrange="50" yrange="50" yreverse="true"/>
+
+</skin>
