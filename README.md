@@ -30,7 +30,7 @@ A fork of NintendoSpy, RetroSpy is designed to present controller inputs from a 
 #### [For more information or to download RetroSpy, see the GitHub page.](https://github.com/retrospy/RetroSpy)
 
 ---
-<!--
+
 ### My Buttons Are Wrong!
 
 Sometimes, a controller might be mapped differently compared to what the skin has mapped.  
@@ -40,12 +40,12 @@ In order to fix this, follow these steps:
 | Step | Example |
 | :----------- | :----------- |
 | 1. Open RetroSpy | |
-| 2. Run the "helper" skin for the category/type you are using (generic, MiSTer, etc) | ![Helper Choice](docs/example-helper-choice.png) |
-| 3. When you press buttons, you will see what value that buttons correlates to | ![Helper Skin](docs/example-helper-skin.png) ||
+| 2. Run the "helper" skin for the category/type you are using (generic, MiSTer, etc) | ![Helper Choice](docs/helper-select.png) |
+| 3. When you press buttons, you will see what value that buttons correlates to | ![Helper Skin](docs/helper-skin.png) ||
 | 4. Open the skin folder of the skin you want to fix | |
 | 5. Open the skin.xml file in a text editor | |
-| 6. Change the respective button name to match the output you are seeing in the helper | ![Update Skin.xml](docs/example-update-skin.png) |
+| 6. Change the respective button name to match the output you are seeing in the helper | ![Update Skin.xml](docs/update-skin.png) |
 | 7. Save the file | |
 | 8. Restart RetroSpy | |
 
---- -->
+---
